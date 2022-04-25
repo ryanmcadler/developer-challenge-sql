@@ -18,7 +18,7 @@ There is a sqlite3 database located at `/db/customer_admin.db` that contains a s
 - Orders
     - ID (integer, primary key)
     - Product ID (integer, foreign key)
-    - Customer ID (ineger, foreign key)
+    - Customer ID (integer, foreign key)
     - Amount (numeric)
     - Order Date (string)
 - Customers
